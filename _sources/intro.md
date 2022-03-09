@@ -13,17 +13,9 @@ Check out the content pages bundled with this sample book to see more.
 ## Getting jupyterlite to work
 
 ```{jupyterlite} notebooks.ipynb
-
 ```
 
-## 
+## Retrolite
 
+```{retrolite} notebooks.ipynb
 ```
-.. jupyterlite:: my_notebook.ipynb
-   :width: 100%
-   :height: 600px
-```
-
-.. jupyterlite:: my_notebook.ipynb
-   :width: 100%
-   :height: 600px
