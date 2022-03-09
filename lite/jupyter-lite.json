@@ -1,0 +1,42 @@
+{
+  "jupyter-config-data": {
+    "appName": "JupyterLite",
+    "appUrl": "./lab",
+    "appVersion": "0.1.0-beta.2",
+    "baseUrl": "./",
+    "faviconUrl": "./lab/favicon.ico",
+    "federated_extensions": [
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
+        "name": "@jupyter-widgets/jupyterlab-manager"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.c9ad07e025015fa55493.js",
+        "name": "jupyterlab-jupytext"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.f372bf1de02fb50ae6e0.js",
+        "mimeExtension": "./mimeExtension",
+        "name": "jupyterlab-plotly"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static\\remoteEntry.83c796749c1a515caea8.js",
+        "name": "nbdime-jupyterlab"
+      }
+    ],
+    "fullLabextensionsUrl": "./extensions",
+    "fullMathjaxUrl": "./static/jupyter_server_mathjax/MathJax.js",
+    "fullStaticUrl": "./build",
+    "licensesUrl": "./lab/api/licenses",
+    "mathjaxConfig": "TeX-AMS-MML_HTMLorMML-full,Safe"
+  },
+  "jupyter-lite-schema-version": 0
+}
