@@ -9,3 +9,21 @@ Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
+
+## Getting jupyterlite to work
+
+```{jupyterlite} notebooks.ipynb
+
+```
+
+## 
+
+```
+.. jupyterlite:: my_notebook.ipynb
+   :width: 100%
+   :height: 600px
+```
+
+.. jupyterlite:: my_notebook.ipynb
+   :width: 100%
+   :height: 600px
