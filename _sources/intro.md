@@ -12,10 +12,5 @@ Check out the content pages bundled with this sample book to see more.
 
 ## Getting jupyterlite to work
 
-```{jupyterlite} hello_world.ipynb
-```
-
-## Retrolite
-
-```{retrolite} notebooks.ipynb
+```{jupyterlite} hello.ipynb
 ```
