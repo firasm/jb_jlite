@@ -12,7 +12,7 @@ Check out the content pages bundled with this sample book to see more.
 
 ## Getting jupyterlite to work
 
-```{jupyterlite} notebooks.ipynb
+```{jupyterlite} hello_world.ipynb
 ```
 
 ## Retrolite
