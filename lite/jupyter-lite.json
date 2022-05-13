@@ -9,8 +9,20 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.ca78835ad8eb802cadd9.js",
+        "name": "@agoose77/jupyterlab-markup"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.f6574b55a223d23e7a04.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
+        "load": "static/remoteEntry.1be1386d5f12e350008b.js",
+        "name": "@ryantam626/jupyterlab_code_formatter"
       },
       {
         "extension": "./extension",
